@@ -79,4 +79,16 @@ Utiliza a biblioteca Gradio para criar uma interface gráfica e visual para o ch
 <h3>Execução e Comandos Disponíveis</h3>
 O código é executado através da variável hapvida_away, que inicia a interface visual do Gradio. O usuário pode interagir com o chatbot através de comandos como "Ajuda", "Informação", "Emergência" e palavras-chave associadas a especialidades médicas e situações específicas.
 
+## 👑 <a>Colaboradores do grupo Hapvida-Away</a>
+<div style="display: inline_block"><br>
+<p>
+  <img src="https://github.com/Projeto-Dev-Aula/cp2-front-web-2sem/assets/145347801/900140b6-2724-452a-a822-296d38ace27f" width="75" height="75" style="width:75px;max-width:75px;height:75px" />  Eduardo Brites - RM 552943 <br>
+</p>
+
+<p>
+  <img src="https://github.com/Projeto-Dev-Aula/cp2-front-web-2sem/assets/145347801/addf3154-41e5-4227-ba6d-887d3ea737a1" width="75" height="75" style="width:75px;max-width:75px;height:75px" /> Karolina Soares - RM 554187 
+</p>
+</div>
+
+
 
