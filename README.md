@@ -76,6 +76,8 @@ Identifica palavras-chave nas mensagens do usuário e fornece recomendações de
 <h3>Interface Gráfico-Visual Gradio:</h3>
 Utiliza a biblioteca Gradio para criar uma interface gráfica e visual para o chatbot.
 
+<img align="center" width="80%" src="https://github.com/Hapvida-Away/HapVida-Away-Edge/assets/145347801/3533df9d-3832-4898-8949-97feb2369649"/>
+
 <h3>Execução e Comandos Disponíveis</h3>
 O código é executado através da variável hapvida_away, que inicia a interface visual do Gradio. O usuário pode interagir com o chatbot através de comandos como "Ajuda", "Informação", "Emergência" e palavras-chave associadas a especialidades médicas e situações específicas.
 
